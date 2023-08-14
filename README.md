@@ -38,7 +38,7 @@ _Below is an example of how installing and setting up this app_
 
 1. Clone the repo
    ```sh
-   git clone git@gitlab.com:letrunglong/timetable-exam.git
+   git clone  git@gitlab.com:letrunglong/timetable-exam.git
    ```
 2. Start dev server script auto install NPM packages
    ```sh

@@ -8,7 +8,7 @@ const initialState: IStoreUser = {
 };
 
 const storeSlice = createSlice({
-  name: "store",
+  name: "user",
   initialState,
   reducers: {
     callStart: (state: IStoreUser) => {

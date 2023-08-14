@@ -12,7 +12,7 @@ const initialState: IStoreEvent = {
 };
 
 const storeSlice = createSlice({
-  name: "store",
+  name: "event",
   initialState,
   reducers: {
     callStart: (state: IStoreEvent) => {
